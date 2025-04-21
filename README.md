@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Sidapara</h1>
 <h3 align="center">A passionate _______ from India</h3>
 
-- 🔭 I’m currently working on [Future Forge](https://github.com/prem412/FutureForge)
 
 - 📫 How to reach me **pprem1644@gmail.com**
 
