@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prem Sidapara</h1>
-<h3 align="center">A passionate _______ from India</h3>
+<!-- <h3 align="center">A passionate _______ from India</h3> -->
 
 
-- 📫 How to reach me **pprem1644@gmail.com**
+- 📫 How to reach me **prem.sidapara.personal@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
