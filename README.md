@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem412&label=Profile%20views&color=0e75b6&style=flat" alt="prem412" /> </p>
 
-- 🔭 I’m currently revising [python](https://github.com/prem412/Python-Revision)
+- 🔭 I’m currently revising [python](https://github.com/prem412/Python-Revision) - For Data Science
 
 - 🌱 I’m currently learning **In-depth JavaScript**
 
